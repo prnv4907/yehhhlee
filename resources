@@ -1,1 +1,17 @@
+//1. rnn resource, mainly from krish naik series of dl 
+https://youtu.be/rdkIOM78ZPk?si=rdUyc74R8iRZyFxX
 
+
+//for now see this and if different nn or ml is used i will update you
+
+//2. data making is done by using pytmosph3r and its documentation:
+https://perso.astrophy.u-bordeaux.fr/~jleconte/pytmosph3r-doc/index.html
+///try to make some data points by using claude and pytmosph3r and get a bit of feel
+
+//3. original document of idea and what are our goals
+https://docs.google.com/document/d/1cPEFea88Y9mvyNGhXVRphjLTzmFlkM7ODpBWhdmUVvI/edit?tab=t.0
+
+//4. work assighned(you don't have to do it but do know what the process and details of the respective work is):
+1.sumit- data synthesizing (by using pytmosph3r and also look for data visualization so make 2 3 data points using claude)
+2.ali- making the ml model (for now rnn but can change so i will let you know)
+3.prnv- hyperparameter tuning and all.
